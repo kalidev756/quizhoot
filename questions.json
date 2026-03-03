@@ -27,7 +27,7 @@
           "Colossus"
         ],
         "correctAnswer": 1,
-        "image": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Eniac.jpg"
+        "image": "https://commons.wikimedia.org/wiki/File:Glen_Beck_and_Betty_Snyder_program_the_ENIAC_in_building_328_at_the_Ballistic_Research_Laboratory.jpg?uselang=fr"
       },
       {
         "id": 3,
@@ -75,7 +75,7 @@
           "1975"
         ],
         "correctAnswer": 2,
-        "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/KL_Intel_i4004_black_background.jpg"
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Intel_C4004.jpg/250px-Intel_C4004.jpg"
       },
       {
         "id": 7,
@@ -87,7 +87,7 @@
           "Mac OS"
         ],
         "correctAnswer": 2,
-        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Bill_Gates_and_Paul_Allen_in_1981.jpg"
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Msdos-icon.png/120px-Msdos-icon.png"
       },
       {
         "id": 8,
@@ -123,7 +123,7 @@
           "Concevoir l'architecture matérielle de l'ENIAC"
         ],
         "correctAnswer": 1,
-        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Two_women_operating_ENIAC.gif"
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Two_women_operating_ENIAC_%28full_resolution%29.jpg/500px-Two_women_operating_ENIAC_%28full_resolution%29.jpg"
       },
       {
         "id": 11,
@@ -135,7 +135,7 @@
           "Alonzo Church"
         ],
         "correctAnswer": 2,
-        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/JohnvonNeumann-LosAlamos.gif"
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/80486dx2-v2.jpg/330px-80486dx2-v2.jpg"
       },
       {
         "id": 12,
@@ -219,7 +219,7 @@
           "Google"
         ],
         "correctAnswer": 3,
-        "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Sergey_Brin_and_Larry_Page_cropped.jpg"
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Googleplex_HQ_%28cropped%29.jpg/330px-Googleplex_HQ_%28cropped%29.jpg"
       },
       {
         "id": 19,
@@ -243,7 +243,7 @@
           "2008"
         ],
         "correctAnswer": 2,
-        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a9/IPhone_first_generation_on_white_background.jpg"
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Steve_Jobs_Headshot_2010-CROP2.jpg/250px-Steve_Jobs_Headshot_2010-CROP2.jpg"
       }
     ]
   }
