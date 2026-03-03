@@ -1,249 +1,249 @@
 {
   "quiz": {
-    "title": "Le Quiz Loufoque à la Théobabac",
-    "subtitle": "Es-tu prêt à perdre tes derniers neurones ?",
-    "description": "20 questions absurdes pour tester ta logique (ou son absence).",
-    "duration": 300,
+    "title": "Quiz Histoire de l'Informatique",
+    "subtitle": "Des tubes à vide au cloud — saurais-tu retracer l'épopée des machines ?",
+    "description": "20 questions pour tester tes connaissances sur les grands jalons de l'informatique, de Babbage à Internet.",
+    "duration": 360,
     "questions": [
       {
         "id": 1,
-        "question": "Si tu manges une pizza ronde dans une boîte carrée et que tu la coupes en triangles, quel âge a le livreur ?",
+        "question": "Quel mathématicien anglais est considéré comme le « père de l'informatique théorique » pour avoir décrit dès 1936 une machine universelle de calcul ?",
         "answers": [
-          "24 ans et il s'appelle Kévin",
-          "L'hypoténuse de la croûte",
-          "Le goût du carton",
-          "42 (la réponse à tout)"
+          "Alan Turing",
+          "Charles Babbage",
+          "John von Neumann",
+          "Blaise Pascal"
         ],
         "correctAnswer": 0,
-        "image": ""
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Alan_Turing_Aged_16.jpg"
       },
       {
         "id": 2,
-        "question": "Tu préfères avoir des mains à la place des pieds ou des pieds à la place des mains ?",
+        "question": "Quel est le nom du premier ordinateur entièrement électronique, inauguré le 15 février 1946 à l'université de Pennsylvanie ?",
         "answers": [
-          "Mains à la place des pieds (meilleur grip)",
-          "Pieds à la place des mains (pour applaudir du futur)",
-          "Je préfère devenir un pingouin",
-          "C'est quoi un pied ?"
+          "UNIVAC",
+          "ENIAC",
+          "EDVAC",
+          "Colossus"
         ],
-        "correctAnswer": 2,
-        "image": ""
+        "correctAnswer": 1,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Eniac.jpg"
       },
       {
         "id": 3,
-        "question": "Pourquoi les kamikazes portaient-ils des casques ?",
+        "question": "Charles Babbage a imaginé au XIXe siècle une « machine analytique » programmable. Sur quel support de programmation reposait-elle ?",
         "answers": [
-          "Pour la caution de l'avion",
-          "Pour pas se coiffer avant l'impact",
-          "C'est une excellente question, merci de l'avoir posée",
-          "Pour protéger le Bluetooth"
+          "Disquettes magnétiques",
+          "Rubans perforés",
+          "Cartes perforées",
+          "Transistors"
         ],
         "correctAnswer": 2,
-        "image": ""
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/ac/AnalyticalMachine_Babbage_London.jpg"
       },
       {
         "id": 4,
-        "question": "Quel est le bruit d'un mime qui tombe dans la forêt sans que personne ne l'entende ?",
+        "question": "Qui est Ada Lovelace, souvent célébrée dans l'histoire de l'informatique ?",
         "answers": [
-          "Un silence en italique",
-          "Le bruit d'une boîte invisible qui casse",
-          "Prout",
-          "C-pas-faux"
+          "La première programmatrice de l'ENIAC",
+          "L'inventrice du transistor",
+          "La première personne à écrire un algorithme destiné à une machine",
+          "La co-fondatrice d'Apple"
         ],
-        "correctAnswer": 0,
-        "image": ""
+        "correctAnswer": 2,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Ada_Lovelace_portrait.jpg"
       },
       {
         "id": 5,
-        "question": "Si un mot est mal écrit dans le dictionnaire, comment on le sait ?",
+        "question": "Quel composant électronique, inventé en 1947 aux Bell Labs, a remplacé les tubes à vide et révolutionné l'électronique ?",
         "answers": [
-          "On demande à Google",
-          "C'est un complot des profs de français",
-          "On attend la mise à jour",
-          "On regarde si le dictionnaire souligne en rouge"
+          "Le microprocesseur",
+          "Le transistor",
+          "Le circuit intégré",
+          "La diode"
         ],
         "correctAnswer": 1,
-        "image": ""
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Replica-of-first-transistor.jpg"
       },
       {
         "id": 6,
-        "question": "Est-ce que les poissons ont soif ?",
+        "question": "En quelle année le premier microprocesseur commercial, l'Intel 4004, a-t-il été lancé ?",
         "answers": [
-          "Oui, mais ils sont timides",
-          "Seulement après un kebab",
-          "Ils boivent pour oublier qu'ils sont nus",
-          "Glouglou"
+          "1965",
+          "1969",
+          "1971",
+          "1975"
         ],
         "correctAnswer": 2,
-        "image": ""
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/KL_Intel_i4004_black_background.jpg"
       },
       {
         "id": 7,
-        "question": "Si on essaie d'échouer et qu'on réussit, qu'est-ce qu'on a fait ?",
+        "question": "Quel système d'exploitation, créé par Bill Gates et Paul Allen, a équipé les premiers PC d'IBM à partir de 1981 ?",
         "answers": [
-          "Un paradoxe temporel",
-          "On a raté de rater",
-          "On a buggé la matrice",
-          "On mérite un goûter"
+          "CP/M",
+          "Unix",
+          "MS-DOS",
+          "Mac OS"
         ],
-        "correctAnswer": 3,
-        "image": ""
+        "correctAnswer": 2,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Bill_Gates_and_Paul_Allen_in_1981.jpg"
       },
       {
         "id": 8,
-        "question": "Pourquoi 'séparé' s'écrit-il en un mot, alors que 'tous ensemble' s'écrit en deux mots ?",
+        "question": "Qui a inventé le World Wide Web en 1989, au CERN ?",
         "answers": [
-          "Parce que la langue française est une blague",
-          "Pour nous embrouiller",
-          "C'est une décision de l'arbitre",
-          "Obi-Wan Kenobi"
+          "Vint Cerf",
+          "Tim Berners-Lee",
+          "Marc Andreessen",
+          "Steve Jobs"
         ],
-        "correctAnswer": 0,
-        "image": ""
+        "correctAnswer": 1,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Sir_Tim_Berners-Lee.jpg"
       },
       {
         "id": 9,
-        "question": "Tu préfères avoir une tête de pigeon mais l'intelligence d'Einstein, ou l'inverse ?",
+        "question": "La « Loi de Moore » (1965) prédit que le nombre de transistors sur un circuit intégré double environ tous les combien de temps ?",
         "answers": [
-          "Tête de pigeon (pour le style)",
-          "Intelligence d'Einstein (pour calculer mes miettes)",
-          "L'inverse (pour être un génie incompris par les oiseaux)",
-          "Je veux juste du pain"
+          "6 mois",
+          "2 ans",
+          "5 ans",
+          "10 ans"
         ],
-        "correctAnswer": 3,
-        "image": ""
+        "correctAnswer": 1,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/00/Moore%27s_Law_Transistor_Count_1970-2020.png"
       },
       {
         "id": 10,
-        "question": "Si Cendrillon avait ses chaussures à sa taille, pourquoi en a-t-elle perdu une ?",
+        "question": "Quel était le rôle des « ENIAC Girls » durant la Seconde Guerre mondiale ?",
         "answers": [
-          "Elle avait les pieds moites",
-          "C'était une chaussure en verre de mauvaise qualité",
-          "Elle l'a fait exprès pour pécho",
-          "C'est la faute de la souris"
+          "Assembler physiquement les tubes à vide de l'ENIAC",
+          "Programmer l'ENIAC pour calculer des trajectoires balistiques",
+          "Décrypter les messages Enigma",
+          "Concevoir l'architecture matérielle de l'ENIAC"
         ],
-        "correctAnswer": 2,
-        "image": ""
+        "correctAnswer": 1,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Two_women_operating_ENIAC.gif"
       },
       {
         "id": 11,
-        "question": "Combien de temps faut-il à un manchot pour monter un meuble IKEA ?",
+        "question": "Quel mathématicien a formalisé en 1945 l'architecture de l'ordinateur moderne (processeur, mémoire, entrées/sorties) ?",
         "answers": [
-          "3 jours et une crise de nerfs",
-          "Il n'a pas de mains, t'es méchant",
-          "C'est impossible, il ne lit pas le suédois",
-          "Bof, environ une banquise"
+          "Norbert Wiener",
+          "Claude Shannon",
+          "John von Neumann",
+          "Alonzo Church"
         ],
-        "correctAnswer": 1,
-        "image": ""
+        "correctAnswer": 2,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/JohnvonNeumann-LosAlamos.gif"
       },
       {
         "id": 12,
-        "question": "Pourquoi les flutes n'ont pas de goût ?",
+        "question": "Quel ordinateur personnel d'Apple, lancé en 1984, a popularisé l'interface graphique avec fenêtres et souris pour le grand public ?",
         "answers": [
-          "Parce qu'on les mange pas",
-          "Il faut rajouter du sel dans le bec",
-          "Parce que c'est du vent",
-          "Moi je les trouve sucrées"
+          "Apple II",
+          "Apple Lisa",
+          "Macintosh 128K",
+          "NeXT"
         ],
         "correctAnswer": 2,
-        "image": ""
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Macintosh_128k_transparency.png"
       },
       {
         "id": 13,
-        "question": "Si une orange s'appelle une orange, pourquoi un citron ne s'appelle pas un jaune ?",
+        "question": "Quel système d'exploitation open source, créé par Linus Torvalds en 1991, est aujourd'hui la base de nombreux serveurs et smartphones ?",
         "answers": [
-          "Parce que le citron est aigri",
-          "Le marketing",
-          "Le jaune était déjà pris par le pastis",
-          "C'est une question de respect"
+          "BSD",
+          "Linux",
+          "Solaris",
+          "FreeDOS"
         ],
-        "correctAnswer": 0,
-        "image": ""
+        "correctAnswer": 1,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg"
       },
       {
         "id": 14,
-        "question": "Peut-on commander un menu enfant si on est un adulte mais très immature ?",
+        "question": "Qu'est-ce que le protocole TCP/IP, développé notamment par Vint Cerf et Bob Kahn dans les années 1970 ?",
         "answers": [
-          "Oui, si on porte un bavoir",
-          "Seulement si on veut le jouet",
-          "C'est illégal dans 42 pays",
-          "Non, la police du goût surveille"
+          "Un langage de programmation orienté réseau",
+          "Le protocole de communication fondateur d'Internet",
+          "Un système de fichiers distribué",
+          "Le premier antivirus informatique"
         ],
         "correctAnswer": 1,
-        "image": ""
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Client-server-model.svg"
       },
       {
         "id": 15,
-        "question": "Que fait un canard qui a perdu ses clés ?",
+        "question": "En quelle décennie les disques durs magnétiques ont-ils fait leur apparition dans les ordinateurs grand public ?",
         "answers": [
-          "Il fait 'Coin'",
-          "Il appelle un serrurier-cygne",
-          "Il dort dehors",
-          "Il cherche dans son autre bec"
+          "1950",
+          "1960",
+          "1970",
+          "1980"
         ],
-        "correctAnswer": 0,
-        "image": ""
+        "correctAnswer": 3,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Laptop-hard-drive-exposed.jpg"
       },
       {
         "id": 16,
-        "question": "Si tu voles avec un avion à la vitesse du son, est-ce que tu entends toujours la radio ?",
+        "question": "Quel langage de programmation de haut niveau, créé par Grace Hopper dans les années 1950, était destiné à la gestion et aux affaires ?",
         "answers": [
-          "Oui, mais en retard",
-          "Non, la musique est derrière",
-          "Seulement si c'est du Jul",
-          "Tu entends le silence"
+          "FORTRAN",
+          "COBOL",
+          "BASIC",
+          "LISP"
         ],
-        "correctAnswer": 2,
-        "image": ""
+        "correctAnswer": 1,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/55/Grace_Hopper.jpg"
       },
       {
         "id": 17,
-        "question": "Pourquoi on appuie plus fort sur la télécommande quand elle n'a plus de piles ?",
+        "question": "Quel évènement, survenu en 1983, est souvent cité comme la naissance officielle d'Internet moderne ?",
         "answers": [
-          "Pour l'intimider",
-          "Pour presser le jus des piles",
-          "C'est un réflexe de survie",
-          "Parce qu'on est désespérés"
+          "La création du premier navigateur web",
+          "L'adoption du protocole TCP/IP par ARPANET",
+          "L'envoi du premier e-mail",
+          "Le lancement du satellite Spoutnik"
         ],
         "correctAnswer": 1,
-        "image": ""
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Internet_map_1024.jpg"
       },
       {
         "id": 18,
-        "question": "Pourquoi le pain de mie n'a pas de croûte mais a quand même des bords ?",
+        "question": "Quel moteur de recherche, fondé en 1998 par Larry Page et Sergey Brin à Stanford, est devenu le plus utilisé au monde ?",
         "answers": [
-          "C'est de la magie noire",
-          "Pour pas qu'on se blesse",
-          "C'est la frontière du gluten",
-          "Demande à ta maman"
+          "Yahoo!",
+          "AltaVista",
+          "Bing",
+          "Google"
         ],
-        "correctAnswer": 2,
-        "image": ""
+        "correctAnswer": 3,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Sergey_Brin_and_Larry_Page_cropped.jpg"
       },
       {
         "id": 19,
-        "question": "Si un chat tombe toujours sur ses pattes et une tartine sur le côté beurré, qu'est-ce qui se passe si on attache une tartine sur le dos d'un chat ?",
+        "question": "Quel terme désigne l'ensemble de serveurs distants permettant de stocker et traiter des données via Internet, popularisé dans les années 2000 ?",
         "answers": [
-          "Il lévite (moteur infini)",
-          "Le chat mange la tartine",
-          "Explosion nucléaire",
-          "Le chat te griffe, logique"
+          "Le big data",
+          "Le cloud computing",
+          "L'intranet",
+          "Le peer-to-peer"
         ],
-        "correctAnswer": 0,
-        "image": ""
+        "correctAnswer": 1,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Cloud_computing.svg"
       },
       {
         "id": 20,
-        "question": "As-tu aimé ce quiz ?",
+        "question": "En quelle année Steve Jobs a-t-il présenté le premier iPhone, marquant le début de l'ère des smartphones modernes ?",
         "answers": [
-          "J'ai perdu 4 points de QI",
-          "C'était incroyable",
-          "Je veux être remboursé",
-          "La réponse D"
+          "2005",
+          "2006",
+          "2007",
+          "2008"
         ],
-        "correctAnswer": 3,
-        "image": ""
+        "correctAnswer": 2,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a9/IPhone_first_generation_on_white_background.jpg"
       }
     ]
   }
